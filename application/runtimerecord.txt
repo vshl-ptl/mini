@@ -1,0 +1,5 @@
+getAllSongs
+getAmountOfSongs
+getSong
+getAllSongs
+getAmountOfSongs
