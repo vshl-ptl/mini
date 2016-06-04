@@ -1,3 +1,3 @@
 # mini
 
-#Modified MVC app to log model method calls
+Modified MVC app to log model method calls
